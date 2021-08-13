@@ -1,0 +1,15 @@
+So guys here is the Tutorial. Its very simple just follow my steps.
+
+Step 1: Go to the Website https://www.stressthem.to/
+
+Step 2: Register an Account with a 10min E-Mail. Idk if it's only a Trial but I made it with a 10min E-Mail so you can make everytime a new Account.
+
+( Dont take a Spam Name like: kdfbhskgnsg, because if you are registered you need to login again. You don't need to verify your E-Mail! )
+
+Step 3: Go to the Booter Panel - Now you can Choose 1 of 6 Methods to DDOS. Btw. you have only Layer 4, no Layer 7.
+
+Step 4: Now enter the targets IP [ without port ] and take in the Port field 80. ( I take 80 and it works, idk why. I saw it on another DDOS Site where it was Standart to take 80. )
+
+Step 5: Press Start Attack. If you are on Teamspeak you can check your targets Connection and Packets. :D
+
+It should work at every Person. Maybe a few Internet Provider are too good but for the People here in Germany with Telekom as example it works fine! :D
