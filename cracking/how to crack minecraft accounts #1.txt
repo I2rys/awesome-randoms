@@ -1,0 +1,11 @@
+1. download this program https://github.com/EpicTimoZz/EggCrack
+2.get some proxies (faster proxies = faster checking times)
+3.make your own or find combolists on nulled or other forums
+4.select "checking" not "cracking" in eggcrack
+5.put your proxies in
+6.select an output file
+7.import your combolist
+8.run it
+9.when you get some hits download this program https://github.com/S...wOxygen/OxygenX
+10.repeat the process but with your hits and in oxygenx, what this does is give you a capture on all the accounts you got
+11.thats it
