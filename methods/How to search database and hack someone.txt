@@ -1,0 +1,13 @@
+LEAK
+
+1. Go to https://breachdirectory.tk/ and type in the users email address.
+- 2. If there are no pop ups then stop and give up!
+- 3. If there is, copy the md5 hash and go to https://hashes.com/en/decrypt/hash and decrypt the hash.
+- 4. The format on the hash is hash:unhashed
+- 5. Worked for Me
+Enjoy
+
+FIND ANY TELEGRAM MESSAGE EVER WROTE | HQ LEAK
+This Tool search engine works by scrapping all telegram public index for your keywords. It is sorted by recent channel or group messages.
+The tool can be found on this website: https://search.buzz.im
+You just have to enter the keyword that you are looking for and you will see all recent posts for that keyword.
