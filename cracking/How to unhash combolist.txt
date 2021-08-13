@@ -1,0 +1,28 @@
+HELLO EVERYONE!
+
+TODAY I AM GOING TO EXPLAIN YOU HOW TO UNHASH THAT COMBO OF YOURS
+
+You probably sometimes got result as:
+a2257395@drdrb.net:c62d929e7b7e7b6165923a5dfc60cb
+and you asked yourself, what the fuck am I going to do now :fuck:
+
+
+YOU NEED TWO TOOLS, WHICH I UPLOADED [THE MOST CLEANEST VERSION OF THESE PROGRAMS PROBABLY]
+kek LEAVE THAT FUCKING LIKE ON THIS TUTORIAL I WAISTED MY TIME HERE
+
+DOWNLOAD LINKS OF TOOLS:
+You must reply in thread to view hidden text.
+
+1. https://anonfile.com/f31dd1Aenf/Madleets...tifier_rar
+2. https://anonfile.com/ge13d3A5n4/ORHTv3.3_rar
+
+First of all:
+Download tools
+
+After you are done with that, you want to open tool, called: "Madleets Hash Identifier", go to your combolist and copy one of those hashes and past it in blank space in Madleets Hash Identifier, than just "Identifi Hash", and you will get results.
+
+Now go to ORHTv.3.3 tool, run it (Online reverse tool), click ok.
+First make sure all services are checked.
+After that, choose HASH TYPE ( You click on Hash Type MD 5 (it's default MD 5 in this tool) ) and then you choose.
+Go to control, options, proxy, find some proxies and past it (it's optional, but I suggest you to use it), then click OK
+After that click on main menu and click on Start from file, click OK and then - find your combolist and open it.
