@@ -1,0 +1,5 @@
+1.Right click in the blur thingy.
+2.Click Inspect.
+3.Delete it.
+4.Above it, there is a CSS code with filter: blur(3px); or something. Remove "filter: blur(3px);"
+5.Save then your done!
