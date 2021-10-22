@@ -1,0 +1,6 @@
+Note: Sometimes it works & sometimes no.
+
+1.Make sure you have a Steam account & Steam ofcourse.
+2.Download the game, If It's paid then you should buy it.
+3.Onced downloaded, open File Explorer and go to C:\Program Files (x86)\Steam\steamapps\common
+4.Just archive the folder & give it to your friends via social platforms/USB or something and they just need to decompress it and run the exe file then it should work.
