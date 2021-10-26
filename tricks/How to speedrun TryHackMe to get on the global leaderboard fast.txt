@@ -1,0 +1,9 @@
+First off, doing this won't do any good because It won't help you learn stuff about hacking & technology stuff, so If someone ask you how good you are in hacking don't lie or interview you don't lie.
+
++ First, start with the hardest ones the process is like this hard >> medium >> easy >> info.
++ Do this everyday.
+
+1.Once you have picked a challenge find "WriteUps" and look at someones solution on how to solve it.
+2.Be patient and solve the challenge by using someones solution.
+3.Onced completed, find another challenge.
+4.Repeat.
