@@ -3,7 +3,7 @@ First off, doing this won't do any good because It won't help you learn stuff ab
 + First, start with the hardest ones the process is like this hard >> medium >> easy >> info.
 + Do this everyday.
 
-1.Once you have picked a challenge find "WriteUps" and look at someones solution on how to solve it or search this in google "TryHackMe <Challenge_name> writeup".
-2.Be patient and solve the challenge by using someones solution.
+1.Once you have picked a challenge search this in google "TryHackMe <challenge_name> writeup" or "TryHackMe <challenge_name> walkthrough".
+2.Be patient and solve the challenge by using someones solution yeah.
 3.Onced completed, find another challenge.
 4.Repeat.
