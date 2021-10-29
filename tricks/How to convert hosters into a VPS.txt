@@ -1,0 +1,6 @@
+Note: This might work & not depends 50-50.
+
+Ways:
++ Host https://github.com/I2rys/EAS in the NodeJS hoster and execute some commands, or make your own NodeJS uhh command executor via API.
++ Reverse shell in the hoster.
++ Just think on how to execute commands in the inside from the outside.
