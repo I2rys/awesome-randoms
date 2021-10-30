@@ -1,4 +1,4 @@
-Note: This might work & not depends 50-50.
+Note: This might work & not, but it depends on the hoster so It's 50-50.
 
 Ways:
 + Host https://github.com/I2rys/EAS in the NodeJS hoster and execute some commands, or make your own NodeJS uhh command executor via API.
