@@ -1,0 +1,3 @@
+If you can't verify your Discord account because captcha is broken or login.
+
+Just reset your password you will be automatically in without logging in. For more info visit https://support.discord.com/hc/en-us/articles/218410947-I-forgot-my-Password-Where-can-I-set-a-new-one-
