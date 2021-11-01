@@ -1,0 +1,12 @@
+First off, this is just for fun and don't do bad things :)
+
+I'm just going to type some words in summarized because explaining & typing all the stuff that we need for this way is a lot.
+
+So the way to do it via email is by programming a program that generates random valid emails, read the list of valid emails you have and send them a message that you want to send.
+This will be really effective if the ransomeware spreads through network by compromising the compromised computer accounts to spread it further more.
+
+Q&A
+Is this safe?
+If you use gmail and your not using any no logging VPN then you will eventually get caught, or by professional malware analysist/reverse engineers checking your ransomeware for any flaws or clues to track you basicly the root of the ransomeware that you made.
+
+If you want to be safe then use a VPN or and Tor and use protonmail, or uhh your secret anonymous method.
