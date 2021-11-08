@@ -1,0 +1,1 @@
+First off, the captcha pop ups because it detects spam requests or something and if you want to skip the solving part(captcha) refresh the tab then open another tab then boom bypassed.
