@@ -1,0 +1,4 @@
+Note: We'll PKG doesn't include your code in compiling so It leaves it in plain site and It can cause the compiled exe code to be leaked.
+
+1.Download a file reader like Notepad++, VSCode or use Notepad
+2.Find like some common word in NodeJS or If you know the file trying fuzzing it and make it crash then use the crash log to find useful keywords, then there is a chance you can find the code of the compiled exe in PKG.
