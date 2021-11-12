@@ -14,3 +14,5 @@ WATCH HOW TO GET FREE ROBUX: <Rickroll link>
 8.Make a virus that spreads in the Internet and Instead of hacking people and ransom them, make the virus spam open any available browser on the device with rickroll link
 9.Hack an IPTV in your school or government then change it to rickroll
 10.Call a scammer and say to them visit this Youtube link then I will pay you 1000$ but the link is rickrol
+11.Hack a website and make them redirect to Youtube rickroll link
+12.Deface a website then slap the Youtube rickroll link on an iframe in the website then make it start on onload.
