@@ -1,0 +1,4 @@
+Note: This only works if you own an internet cafe.
+
+1.Install a keylogger or spy softwares in any computer.
+2.Install wireshark in your computer(Main also used for monitoring pay stuff) and sniff the internet for emails, usernames & passwords.
