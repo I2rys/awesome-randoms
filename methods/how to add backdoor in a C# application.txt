@@ -1,0 +1,5 @@
+Note: This works even If It's obfuscated or not If you have some C# programming knowledge or reverse engineering.
+
+1.Download DnSpy or some decompiler that can edit the file classes
+2.[DnSpy] Find the file **program** then insert your malicious code there and If it requires a DLL import your DLL there also on the very top.
+3.Save it.
