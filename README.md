@@ -1,5 +1,6 @@
 
 <h1 align="center">awesome-randoms</h1>
+<h1 align="center">No longer maintained due to other projects.</h1>
 <h4 align="center">Awesome list of awesome methods, tutorials and more</h4>
 <p align="center">
 	<a href="https://github.com/I2rys/awesome-randoms/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/awesome-randoms?style=flat-square"></img></a>
